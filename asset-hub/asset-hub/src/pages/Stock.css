@@ -1,0 +1,26 @@
+/* src/pages/Stocks.css */
+
+.stocks-page {
+    padding: 20px;
+  }
+  
+  .search-bar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .stock-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .stock-list li {
+    font-size: 18px;
+    padding: 10px;
+    border-bottom: 1px solid #f1f1f1;
+  }
+  
